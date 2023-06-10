@@ -7,7 +7,7 @@
 # 프론트엔드 개발자 권수민 깃허브 입니다.
   
 ### 포트폴리오
-<a href="breathin62.vercel.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO_BY_KWONSUMIN602-FFD400?style=flat-square&logo=sumin&logoColor=white"/></a>
+<a href="[breathin62.vercel.app](https://breathin62.vercel.app/profile)" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO_BY_KWONSUMIN602-FFD400?style=flat-square&logo=PORTFOLIO_BY_KWONSUMIN602&logoColor=white"/></a>
 
 ### 기술 스택
 
@@ -27,5 +27,6 @@
 
   
 <img src="![KWONSUMIN602's github stats](https://github-readme-stats.vercel.app/api?username=KWONSUMIN602&show_icons=true">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWONSUMIN602&layout=compact">
 </div>
