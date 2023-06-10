@@ -8,7 +8,7 @@
 
 ### 포트폴리오
 
-<a href="https://breathin62.vercel.app/profile" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO_BY_KWONSUMIN602-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
+<a href="https://breathin62.vercel.app/profile" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO_BY_KWONSUMIN602-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 300px height = 30px/></a>
 
 <br>
 <br>
