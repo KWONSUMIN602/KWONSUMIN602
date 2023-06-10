@@ -13,7 +13,8 @@
 <br>
 <br>
   
-<summary>:yellow_heart:Tech Stack:yellow_heart:</summary>
+  ### :yellow_heart:Tech Stack:yellow_heart:
+<!-- <summary>:yellow_heart:Tech Stack:yellow_heart:</summary> -->
 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
