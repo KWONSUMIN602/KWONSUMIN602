@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 프론트엔드 개발자 권수민 깃허브 입니다.
+# 개발자 꿈나무:tree : 권수민 GIT입니다.
 
 ### :yellow_heart: PORTFOLIO LINK :yellow_heart:
 
