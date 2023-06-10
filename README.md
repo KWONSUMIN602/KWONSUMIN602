@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 개발자 꿈나무:tree : 권수민 GIT입니다.
+# <h1>{개발자 꿈나무 = "권수민" } GIT입니다.</h1>
 
 ### :yellow_heart: PORTFOLIO LINK :yellow_heart:
 
