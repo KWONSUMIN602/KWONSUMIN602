@@ -30,7 +30,7 @@
 <br>
 <br/>
 
-![KWONSUMIN602's github stats](https://github-readme-stats.vercel.app/api?username=KWONSUMIN602&show_icons=true)
+
 [![KWONSUMIN602's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KWONSUMIN602&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KWONSUMIN602)
 
 </div>
